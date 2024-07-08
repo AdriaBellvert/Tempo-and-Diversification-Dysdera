@@ -1,0 +1,1 @@
+Supporting information including all data and R-scripts for the manuscript "Tempo and mode of diversification of the red devil spiders (Araneae: Dysderidae) of the Canary Islands"
